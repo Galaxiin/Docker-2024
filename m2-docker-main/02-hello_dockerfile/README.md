@@ -1,6 +1,6 @@
 🐳 # Dockerize Ma Page HTML Amusante
 
-Ce projet a pour but de te montrer comment lancer un conteneur Docker avec une page HTML  pour une touche d'humour. Tu as plusieurs choix en matière de technologies pour le faire, alors laisse libre cours à ta créativité !
+Ce projet a pour but de te montrer comment lancer un conteneur Docker avec une page HTML pour une touche d'humour. Tu as plusieurs choix en matière de technologies pour le faire, alors laisse libre cours à ta créativité !
 
 ## Instructions
 
